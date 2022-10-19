@@ -29,7 +29,7 @@
     <a href="https://www.youtube.com/c/mohab mohammed" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="mohab mohammed" height="30" width="40" /></a>
-    <a href="https://discord.gg/https://discord.gg/wD5vbbYXq4" target="blank"><img align="center"
+    <a href="https://discord.com/channels/1019337143904108554/1019337144688443455" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="https://discord.gg/wD5vbbYXq4" height="30" width="40" /></a>
 </p>
