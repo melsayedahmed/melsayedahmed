@@ -1,37 +1,30 @@
-<h1 align="center">Hi 👋, I'm Mohab Mohammed Elsayed Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Mohab Mohammed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=melsayedahmed&label=Profile%20views&color=0e75b6&style=flat"
-        alt="melsayedahmed" alt="melsayedahmed" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=melsayedahmed&label=Profile%20views&color=0e75b6&style=flat"
+        alt="melsayedahmed" alt="melsayedahmed" />
+		   <img src="https://img.shields.io/github/followers/melsayedahmed?label=Followers" alt="melsayedahmed" />
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=melsayedahmed" alt="melsayedahmed" /></a> </p>
+- :school: I am a `Computer Science Fresh Graduate` Faculty of Computer and Information at The Egyptian University for e-learning
+<!-- - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/) -->
+- 🌱 I’m currently studing `React`
+- 📫 How to reach me <br> **mohab.moh2020@gmail.com** || 
+**mohab.moh7000@gmail.com**
+- :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/10tz5X5FtUzYRmGQESW93jC_7My7TZ2G4/edit?usp=sharing&ouid=101996437900190775612&rtpof=true&sd=true).
+- :nerd_face: Always `learning new things`
+- 🐼 Doing my best
 
-<p align="center"> <a href="https://twitter.com/mohabmohammed_" target="blank"><img
-            src="https://img.shields.io/twitter/follow/mohabmohammed_?logo=twitter&style=for-the-badge"
-            alt="mohabmohammed_" /></a> </p>
+<br>
 
-<h3 align="center">Connect with me:</h3>
+## 📩 Connect with me
+
 <p align="center">
-    <a href="https://fb.com/mohab mohammed" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="mohab mohammed" height="30" width="40" /></a>
-    <a href="https://instagram.com/mohabmohammed_official" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="mohabmohammed_official" height="30" width="40" /></a>
-    <a href="https://twitter.com/mohabmohammed_" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="mohabmohammed_" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/mohab mohammed" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="mohab mohammed" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/mohab mohammed" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="mohab mohammed" height="30" width="40" /></a>
-    <a href="https://discord.com/channels/1019337143904108554/1019337144688443455" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="https://discord.gg/wD5vbbYXq4" height="30" width="40" /></a>
+    <a href="mailto:mohab.moh2020@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.facebook.com/mohab.mohammed.31508076" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mohab-mohammed-59a317176/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
