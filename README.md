@@ -8,7 +8,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Computer Science Fresh Graduate` Faculty of Computer and Information at The Egyptian University for e-learning
+- :school: I am a `information technology Fresh Graduate` Faculty of Computer and Information at The Egyptian University for e-learning
 <!-- - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/) -->
 - 🌱 I’m currently studing `React`
 - 📫 How to reach me <br> **mohab.moh2020@gmail.com** || 
