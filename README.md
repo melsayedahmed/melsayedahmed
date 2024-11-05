@@ -5,7 +5,7 @@ Instructor Frontend</h3> <p align="center"> <img src="https://komarev.com/ghpvc/
 
  - :school: I am a `information technology Fresh Graduate` Faculty of Computer and Information at The Egyptian University for e-learning <!-- - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/) --> <br>
 - 🌱 I’m currently studing `ASP .NET Core` <br>
-- 📫 How to reach me <br> **mohab.moh2020@gmail.com** || **mohab.moh7000@gmail.com**
+- 📫 How to reach me <br> **mohab.moh2020@gmail.com**
  - :thinking: I’m currently open for: new `job opportunity`,this is this is [MY CV](https://drive.google.com/file/d/1IDLAtqMESCvgjF8QRbOhc1NbWyj18CkV/view?usp=sharing). - :nerd_face: Always `learning new things`<br>
  - 🐼 Doing my best <br>
  ## 📩 Connect with me 
