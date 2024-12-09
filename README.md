@@ -56,6 +56,4 @@ Instructor Frontend</h3> <p align="center"> <img src="https://komarev.com/ghpvc/
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
 ### 📈 Some stats
-<img src="https://metrics.lecoq.io/melsayedahmed" alt="Mohab's GitHub metrics" />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melsayedahmed&" alt="melsayedahmed" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melsayedahmed&show_icons=true&locale=en&layout=compact" alt="melsayedahmed" /> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melsayedahmed&show_icons=true&locale=en" alt="melsayedahmed" /></p>
