@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohab Mohammed</h1> <h3 align="center">Software Engineer <br>
-(React js, Next Js) <br>
+Project Manager <br>
 CEO & Founder of Functo Software House© <br>
 Instructor Frontend</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=melsayedahmed&label=Profile%20views&color=0e75b6&style=flat" alt="melsayedahmed" alt="melsayedahmed" /> <img src="https://img.shields.io/github/followers/melsayedahmed?label=Followers" alt="melsayedahmed" /> </p> <br> <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
 
- - :school: I am a `Project Manager` Faculty of Computer and Information at The Egyptian University for e-learning <!-- - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/) --> <br>
-- 🌱 I’m currently studing `ReactNative` <br>
+ - :school: Project Manager, Faculty of Computers and Information, Egyptian E-Learning University <br>
+- 🌱 I’m currently studing `PMP` <br>
 - 📫 How to reach me <br> **mohab.moh2020@gmail.com**
- - :thinking: I’m currently open for: new `job opportunity`,this is this is [MY CV](https://drive.google.com/file/d/1IDLAtqMESCvgjF8QRbOhc1NbWyj18CkV/view?usp=sharing). - :nerd_face: Always `learning new things`<br>
+ - :thinking: I’m currently open for: new `job opportunity`,this is [MY CV](https://drive.google.com/file/d/1IDLAtqMESCvgjF8QRbOhc1NbWyj18CkV/view?usp=sharing). - :nerd_face: Always `learning new things`<br>
  - 🐼 Doing my best <br>
  ## 📩 Connect with me 
 <p align="center"> <a href="mailto:mohab.moh2020@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.facebook.com/mohab.mohammed.31508076" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mohab-mohammed-59a317176/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br> <a href="https://www.instagram.com/mohabmohammed_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/UCo92JwtW5CbyN3XO6O0qocA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a> <a href="https://discord.com/channels/1019337143904108554/1019337144688443455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a> </p> <br> <br> <h3 align="center">
