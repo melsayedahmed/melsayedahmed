@@ -26,16 +26,14 @@ Instructor Frontend</h3> <p align="center"> <img src="https://komarev.com/ghpvc/
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
 🧑‍💻 **Project Management & Methodologies**  
-<br>
-<br>
+
 ![Agile](https://img.shields.io/badge/-Agile-%23007396?style=flat-square&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-%230A0FFF?style=flat-square&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-%233498DB?style=flat-square&logo=trello&logoColor=white)
 ![Waterfall](https://img.shields.io/badge/-Waterfall-%23E34F26?style=flat-square&logoColor=white)
 
 📋 **Collaboration & Management Tools**  
-<br>
-<br>
+
 ![ClickUp](https://img.shields.io/badge/-ClickUp-%237B68EE?style=flat-square&logo=clickup&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-%234A154B?style=flat-square&logo=slack&logoColor=white)
 
