@@ -54,6 +54,8 @@ Instructor Frontend</h3> <p align="center"> <img src="https://komarev.com/ghpvc/
 <br>
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Hostinger](https://img.shields.io/badge/-Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=ffffff)
+![Contabo](https://img.shields.io/badge/-Contabo-00ADEF?style=flat-square&logo=azuredevops&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
 
